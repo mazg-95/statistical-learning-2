@@ -1,0 +1,17 @@
+*.data-00000-of-00001
+*.pb
+*.index
+*.pbtxt
+*.ipynb
+brain_tumor-classifier/brain_tumor/experiment_*/
+brain_tumor-classifier/brain_tumor/logs/tensorboard/experiment_*/
+brain_tumor-classifier/data/*
+mlp-fetal-health/fetal_health/experiment_*/checkpoint
+mlp-fetal-health/fetal_health/logs/tensorboard/*
+statistcal-learning-2/DeepLearningProject/CNN/brain_tumor-classifier/brain_tumor/experiment_*
+statistcal-learning-2/DeepLearningProject/CNN/brain_tumor-classifier/brain_tumor/logs/tensorboard/experiment_*
+statistcal-learning-2/DeepLearningProject/CNN/brain_tumor-classifier/data/*
+statistcal-learning-2/DeepLearningProject/MLP/fetal_health/experiment_*/checkpoint
+statistcal-learning-2/DeepLearningProject/MLP/fetal_health/logs/tensorboard/experiment_*
+statistcal-learning-2/DeepLearningProject/RNN/song-classifier/songs/logs/tensorboard/experiment_*
+statistcal-learning-2/DeepLearningProject/RNN/song-classifier/songs/experiment_*/checkpoint
